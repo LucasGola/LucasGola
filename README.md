@@ -28,7 +28,8 @@
   - Por não estar em um equipe com desenvolvedores eu tinha que realizar minhas atividades praticamente sozinho, mas podia contar com o apoio da minha equipe e dos desenvolvedores quando não estavam muito ocupados. Assim, em 2 meses já havia realizado integrações entre plataformas internas e externas, e em mais 2 meses finalizei minha primeira aplicação em NodeJS.
   - Tendo apoio dos meus chefes que diziam ver meu potencial, fui transferido oficialmente para a equipe de desenvolvimento, onde encontrei certas dificuldades para iniciar os trabalhos junto aos novos integrantes da equipe, tendo em vista que meu conhecimento ainda não era limitado. Contudo, com auxílio de todos, consegui me adapatar com certa facilidade, e a partir de então fui desenvolvendo cada vez mais minhas habilidades, a um ponto onde hoje estou desenvolvendo minha própria aplicação pessoal, contando com Back-End e Front-End.
 
-  ---
+<br>
+
   > # Informações Técnicas:
   > Como desenvolvedor da Go Ahead, sendo as principais linguagens e frameworks utilizados pela empresa, desenvolvi habilidades principalmente em:
   > <dd>JavaScript;
@@ -55,7 +56,22 @@
 ## **Contatos**
   - Se deseja entrar em contato, ou se tem qualquer sugestão, sinta-se à vontade para entrar em contato, pelo meio que achar mais confortável 😄
 
+<br>
+<br>
+
+  <div style="display:flex;">
+    <a href="http://google.com.au/" rel="some text" style="width: 70; height: 70px"><img src="./assets/linkedin.svg" alt="email" style="width: 70; height: 70px"></a>
+    <a href="http://google.com.au/" rel="some text" style="width: 70; height: 70px"><img src="./assets/outlook.svg" alt="email" style="width: 70; height: 70px"></a>
+    <a href="http://google.com.au/" rel="some text" style="width: 70; height: 70px"><img src="./assets/whatsapp.svg" alt="email" style="width: 70; height: 70px"></a>
+    <a href="http://google.com.au/" rel="some text" style="width: 70; height: 70px"><img src="./assets/telephone.svg" alt="email" style="width: 70; height: 70px"></a>
+  </div>
+
+<br>
+
 ---
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -76,7 +92,9 @@
 ---
 ## **My Carrer**
 
----
+
+<br>
+
 > # Technical Informations:
 
 ---
