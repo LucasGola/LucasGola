@@ -32,12 +32,13 @@
 <br>
 
   > # Informações Técnicas:
-  > Como desenvolvedor da Go Ahead, sendo as principais linguagens e frameworks utilizados pela empresa, desenvolvi habilidades principalmente em:
+  > Como desenvolvedor na Go Ahead e estagiário na VIVO, sendo as principais linguagens e frameworks utilizados pelas empresas, desenvolvi habilidades principalmente em:
   > <dd>JavaScript;
   > <dd>Node;
   > <dd>React;
   > <dd>TypeScript;
-  > <dd>React Native.  
+  > <dd>React Native;
+  > <dd>Python.
 
 ---
 ## **Meus Objetivos**
@@ -116,12 +117,13 @@
 <br>
 
 > # Technical Informations:
-  > As a developer at Go Ahead, with the main languages and frameworks used by the company, I developed skills mainly in:
+  > As a developer at Go Ahead and intern at VIVO, with the main languages and frameworks used by the company, I developed skills mainly in:
   > <dd>JavaScript;
   > <dd>Node;
   > <dd>React;
   > <dd>TypeScript;
-  > <dd>React Native.
+  > <dd>React Native;
+  > <dd>Python.
 ---
 ## **My Goals**
 ### **Career Goals**
