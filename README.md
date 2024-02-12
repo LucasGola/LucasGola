@@ -27,6 +27,7 @@
   - Apesar de ter sido contratado como desenvolvedor eu não iniciei na equipe de desenvolvimento. Ao invés, ingressei na equipe de redes e sistemas.
   - Por não estar em um equipe com desenvolvedores eu tinha que realizar minhas atividades praticamente sozinho, mas podia contar com o apoio da minha equipe e dos desenvolvedores quando não estavam muito ocupados. Assim, em 2 meses já havia realizado integrações entre plataformas internas e externas, e em mais 2 meses finalizei minha primeira aplicação em NodeJS.
   - Tendo apoio dos meus chefes que diziam ver meu potencial, fui transferido oficialmente para a equipe de desenvolvimento, onde encontrei certas dificuldades para iniciar os trabalhos junto aos novos integrantes da equipe, tendo em vista que meu conhecimento ainda não era limitado. Contudo, com auxílio de todos, consegui me adapatar com certa facilidade, e a partir de então fui desenvolvendo cada vez mais minhas habilidades, a um ponto onde hoje estou desenvolvendo minha própria aplicação pessoal, contando com Back-End e Front-End.
+  - E por fim, em minha última experiência profissional, trabalhei em uma empresa de telecomunicação onde minhas principais atividades eram a análise e tratamento de dados, criação de insights a partir dos resultados dessas análises e automações de tarefas, onde em quase todas as atividades (se não todas) utilizava o Python. Isso me ajudou a aprofundar meus conhecimentos nesta linguagem de programação, o que para mim foi muito bom tendo em vista que é consideravelmente utilizada nos dias de hoje e é a principal linguagem que utilizo em meus estudos na faculdade. 
 
 <br>
 
@@ -110,6 +111,7 @@
   - Despite being hired as a developer, I didn't start on the development team. Instead, I joined the Networks and Systems team.
   - Since I wasn't part of a team with developers, I had to carry out my activities practically alone, but I could count on the support of my team and the developers when they weren't too busy. Thus, in 2 months I had already carried out integrations between internal and external platforms, and in another 2 months I finished my first application in NodeJS.
   - With the support of my bosses who said they saw my potential, I was officially transferred to the development team, where I struggled to start working with the new team members, as my knowledge was still limited. However, with everyone's help, I managed to adapt quite easily, and since then I've been developing my skills more and more, to the point that, today, I'm developing my own personal application, with Back-End and Front-End.
+  - Finally, in my last professional experience, I worked in a telecommunications company where my main activities were data analysis and treatment, creation of insights from the results of these analyses and automation of tasks, where in almost all activities (if not all) I used Python. This helped me to deepen my knowledge in this programming language, which was very good for me considering that it is considerably used today and is the main language that I use in my studies at the university.
 
 <br>
 
